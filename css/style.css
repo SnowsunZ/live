@@ -22,7 +22,7 @@ div.btnbg:hover{
 
 /* 鎵撳瓧 */
 .blink {
-  animation: blink 0.5s infinite;
+  animation: blink 1s infinite;
   animation-delay: 500ms;
 }
 
@@ -43,7 +43,7 @@ div.btnbg:hover{
 .header-sub-title,
 h2 {
   font-weight: 600;
-  font-size: 40px;
+  font-size: 30px;
   /* color: #ff09b8; */
   color: rgb(255, 9, 184);
   padding-right: 0.1em;
